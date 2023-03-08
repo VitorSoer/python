@@ -16,6 +16,10 @@ print(floatNumber, floatType)
 boolean = False
 booleanType: bool = True
 
+# Type: List
+listType = ['List', "of", "items"]
+print(listType)
+
 # Convert types
 print(
     type(int('10')),
